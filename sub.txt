@@ -1,1 +1,7 @@
 hello world I am  in love with GIT
+<<<<<<< HEAD
+=======
+First
+Second
+third
+>>>>>>> testGit
