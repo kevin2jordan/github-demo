@@ -5,3 +5,4 @@ Test 2
 Test 3
 Testing 1234
 Testing is good for health.
+Understanding GIT
